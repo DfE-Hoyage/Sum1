@@ -43,5 +43,10 @@ Your score is now 1
 To clone the repository:
 
 ```bash
-[text](https://github.com/DfE-Hoyage/Sum1.git)
+SSH
+git@github.com:DfE-Hoyage/Sum1.git
+HTTPS
+https://github.com/DfE-Hoyage/Sum1.git
+GitHub CLI
+gh repo clone DfE-Hoyage/Sum1
 ```
